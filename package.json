@@ -1,0 +1,11 @@
+{
+  "name": "Docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FlyReader/Docs.git",
+  "author": "SakuraNeko <devneko@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
