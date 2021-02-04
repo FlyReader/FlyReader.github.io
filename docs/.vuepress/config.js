@@ -5,7 +5,7 @@ module.exports = {
     base: '/Docs/',
     head: [
       ['link', { rel: 'icon', href: '/logo.png' }],
-      ['link', { rel: 'manifest', href: '/manifest.json' }],
+      ['link', { rel: 'manifest', href: '/manifest1.json' }],
       ['meta', { name: 'theme-color', content: '#3eaf7c' }],
       ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
       ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
