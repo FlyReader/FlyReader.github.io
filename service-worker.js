@@ -27,11 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e84277a29da75221c2672dc8eedb52f7"
+    "revision": "9bd976b3f73643e478d003affbf42a2c"
   },
   {
     "url": "assets/css/0.styles.14d8d04d.css",
     "revision": "94a966c5dec45724241450262cb068d9"
+  },
+  {
+    "url": "assets/img/hero.png",
+    "revision": "815377be64fa137d577c02446824ac44"
+  },
+  {
+    "url": "assets/img/logo.png",
+    "revision": "2d36edf349d1b7b38eae9dcd66a9f7d6"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -42,8 +50,8 @@ self.__precacheManifest = [
     "revision": "3aab1baccc4c633b4508d23308554f56"
   },
   {
-    "url": "assets/js/3.bb659546.js",
-    "revision": "5249edabe2f824976908c93bf79b6180"
+    "url": "assets/js/3.95aadac3.js",
+    "revision": "3158bf0c546145edd3571d2e6857464a"
   },
   {
     "url": "assets/js/4.9ef5a331.js",
@@ -58,20 +66,24 @@ self.__precacheManifest = [
     "revision": "0b98402798ee41c93b3c974ee76c8d57"
   },
   {
-    "url": "assets/js/7.15eb1160.js",
+    "url": "assets/js/7.00e63a7b.js",
     "revision": "7098631038872841c7f559fac926b537"
   },
   {
-    "url": "assets/js/8.a66915cc.js",
-    "revision": "c46029dbf5d93e898e2335874f273db8"
+    "url": "assets/js/8.2ab6fd9f.js",
+    "revision": "9d76dec40dd6a5237b9724f12657cc7d"
   },
   {
-    "url": "assets/js/app.07846e66.js",
-    "revision": "73c44b58d47971a7eb2a5fb4e4adc4fe"
+    "url": "assets/js/9.db3b6e99.js",
+    "revision": "6735dc0aed6f0505cfa7de2122acc78a"
   },
   {
-    "url": "hero.png",
-    "revision": "815377be64fa137d577c02446824ac44"
+    "url": "assets/js/app.082d7e9a.js",
+    "revision": "5bbd61dee76673cfbf8a9f1987a63ac3"
+  },
+  {
+    "url": "en-US/index.html",
+    "revision": "a4a785f3eb62b3d63296aba67f468988"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -99,11 +111,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c045c6c8d2c89024c522094269c9b7e4"
+    "revision": "5aa78329ac02dacf27385ae850f3c84a"
   },
   {
-    "url": "logo.png",
-    "revision": "2d36edf349d1b7b38eae9dcd66a9f7d6"
+    "url": "zh-hans/index.html",
+    "revision": "58493c4fbb1cddfe8134a2765f0e13fa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
