@@ -12,7 +12,7 @@
 | 书籍信息页      | yfreader:bookInfo?name={} | yfreader:bookInfo?name=mybook |
 | 书籍内容        | yfreader:bookConcent?name={} | yfreader:bookConcent?name=mybook |
 
-::: tip
+::: tip 提示
 URL方案是否可用取决于越飞阅读和你的操作系统的版本。</br>如果URL的书籍尚未在软件中导入，你将会看到提示“该书籍不存在或已经删除”。
 :::
 
