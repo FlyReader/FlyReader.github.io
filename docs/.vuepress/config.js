@@ -54,7 +54,7 @@ module.exports = {
         lastUpdated: '最后更新时间',
         nav: [
           { text: "首页", link: '/zh-hans/'},
-          // { text: "文档", link: "/zh-hans/docs/"}
+          { text: "文档", link: "/zh-hans/docs/"}
         ],
         slidebar: 'auto'  
       }     
