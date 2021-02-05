@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f54e3af9a60e963d31ce122db11b747e"
+    "revision": "a819866644a3c96bc9188994448fa24f"
   },
   {
     "url": "assets/css/0.styles.14d8d04d.css",
@@ -50,24 +50,32 @@ self.__precacheManifest = [
     "revision": "9290311b19ee673449cae78c17b13920"
   },
   {
-    "url": "assets/js/11.504bf9b4.js",
-    "revision": "909ac1099e421421ebf95509c9347161"
+    "url": "assets/js/11.e62adb38.js",
+    "revision": "43f685a07cc62489384fbb73cd309a1e"
   },
   {
-    "url": "assets/js/12.027ec924.js",
-    "revision": "3b328bc1b1e2485f2b28cd4305c40975"
+    "url": "assets/js/12.989f1ed0.js",
+    "revision": "33988c5e23c9f70772fa5ed9973717a1"
   },
   {
-    "url": "assets/js/13.759ae9d7.js",
-    "revision": "8af775c89c8a60e834cc8afc8d0a7363"
+    "url": "assets/js/13.e1c3dbec.js",
+    "revision": "fc954b9e0c4b336c9471762bd83b7e46"
+  },
+  {
+    "url": "assets/js/14.069537d0.js",
+    "revision": "610ade1292dcc4ebae80614c028be117"
+  },
+  {
+    "url": "assets/js/15.34932dc6.js",
+    "revision": "fce06971a6f54307f5954e65224ea3ff"
   },
   {
     "url": "assets/js/2.a548c553.js",
     "revision": "3aab1baccc4c633b4508d23308554f56"
   },
   {
-    "url": "assets/js/3.6391a0d0.js",
-    "revision": "3003414039bbc3157fe31d9a75d50e5d"
+    "url": "assets/js/3.dd22a757.js",
+    "revision": "b8a9220247eaba71fd90c0c3600030df"
   },
   {
     "url": "assets/js/4.9ef5a331.js",
@@ -90,16 +98,16 @@ self.__precacheManifest = [
     "revision": "9d76dec40dd6a5237b9724f12657cc7d"
   },
   {
-    "url": "assets/js/9.025a0f11.js",
-    "revision": "4f3ae793c9191cc46034087d195a17d6"
+    "url": "assets/js/9.4d9f6b26.js",
+    "revision": "167f4b8e80e413047402a94626821c18"
   },
   {
-    "url": "assets/js/app.8e4f7f74.js",
-    "revision": "ffc59eb9057eab000755b137443bf8de"
+    "url": "assets/js/app.6b8a27e7.js",
+    "revision": "99dc1acf069156a1e35e60f9388f1225"
   },
   {
     "url": "en-US/index.html",
-    "revision": "a694e0e6c83d2c34ce7fd7517e9938ac"
+    "revision": "96f2457e9be1881ad5345c7d8820c0d3"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -131,23 +139,31 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-hans/docs/index.html",
-    "revision": "db4ed8c09cbf548bc27116af5ee5bbeb"
+    "revision": "36e1137f2e3850e78e8e200b69cd1c43"
   },
   {
     "url": "zh-hans/docs/Launch-FlyReader-with-URL.html",
-    "revision": "03d9da50c1b53c3af859c4203403541d"
+    "revision": "0d77992ba372ae3d36b0b2c251f11f9e"
   },
   {
     "url": "zh-hans/docs/Payment-Issues.html",
-    "revision": "646feab9289e7e9dc6784f1429728f08"
+    "revision": "3f0196204ed6250dcc0d1da8c714711f"
+  },
+  {
+    "url": "zh-hans/docs/Refresh-Local-Book-Chapters-with-Regular-Expressions.html",
+    "revision": "055eefa8e738e3f45aec093e7dc87e2f"
+  },
+  {
+    "url": "zh-hans/docs/Using-Common-Rules-to-Block-Unwanted-Content.html",
+    "revision": "2b467c072fb6138dc4bced80d4d2a08f"
   },
   {
     "url": "zh-hans/docs/Using-Cortana-Lunch-FlyReader.html",
-    "revision": "0a2f6bda7fede173dc35ddd22be5a944"
+    "revision": "9b76769515fe3cc986165aa320731673"
   },
   {
     "url": "zh-hans/index.html",
-    "revision": "2d6a982f9327aa1c5d0af4c77636a8ad"
+    "revision": "15c033cb7a75890d76759e5cbfb576cb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
