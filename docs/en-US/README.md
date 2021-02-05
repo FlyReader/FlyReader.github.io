@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /assets/img/hero.png
 actionText: Get it now
 actionLink: https://www.microsoft.com/en-us/p/fly-reader/9nblggh1xvd2
 footer: Copyright © 2015-2020 flyreader.com
