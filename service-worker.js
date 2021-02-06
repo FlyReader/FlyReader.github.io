@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "547b5dfddfaa41fdf2bd20fb139319ca"
+    "revision": "3ca4ab4cd28994a2ccc3430fbf2b0661"
   },
   {
     "url": "assets/css/0.styles.14d8d04d.css",
@@ -94,24 +94,24 @@ self.__precacheManifest = [
     "revision": "0b98402798ee41c93b3c974ee76c8d57"
   },
   {
-    "url": "assets/js/7.00e63a7b.js",
-    "revision": "7098631038872841c7f559fac926b537"
+    "url": "assets/js/7.efe04831.js",
+    "revision": "fcd73ead4b61cfea895d565652796e69"
   },
   {
-    "url": "assets/js/8.2ab6fd9f.js",
-    "revision": "9d76dec40dd6a5237b9724f12657cc7d"
+    "url": "assets/js/8.1c05c9a1.js",
+    "revision": "a0b2be9e5d2bfbd272bfc589788a6c12"
   },
   {
     "url": "assets/js/9.bfad7c19.js",
     "revision": "22d72ba809243df0212587da43b8def1"
   },
   {
-    "url": "assets/js/app.91efc38a.js",
-    "revision": "272fdd403ab59452c57d90ac1f016d29"
+    "url": "assets/js/app.070a02d6.js",
+    "revision": "a8e371d6b40965e827d3b0501f4c4c4d"
   },
   {
     "url": "en-US/index.html",
-    "revision": "c78a06243f4e5889e3e705689a5057e8"
+    "revision": "e1e193819587b7577f327c29122bf825"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -143,35 +143,35 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-hans/docs/Changelog.html",
-    "revision": "3c744ab81dac9be08538638a004bb519"
+    "revision": "bd06a443eab52547b2068ba0f41b2582"
   },
   {
     "url": "zh-hans/docs/index.html",
-    "revision": "d6b83c4631697894f5bfe8b72afc397d"
+    "revision": "7b80c11d6a07ef54da741bad8b6cedf7"
   },
   {
     "url": "zh-hans/docs/Launch-FlyReader-with-URL.html",
-    "revision": "40a08a902cb17e598cff7ab0eeda3ddf"
+    "revision": "0f30adaea23e7422ea8d6dfd8156ecfe"
   },
   {
     "url": "zh-hans/docs/Payment-Issues.html",
-    "revision": "f5df63c11962a864fd733054eadc88f4"
+    "revision": "c286ed4d1a8ced045ecadfa2912270eb"
   },
   {
     "url": "zh-hans/docs/Refresh-Local-Book-Chapters-with-Regular-Expressions.html",
-    "revision": "f3adc81aae06e76275b5a05f401ab77f"
+    "revision": "ac4f416ba69444899fbd19a2f83d7920"
   },
   {
     "url": "zh-hans/docs/Using-Common-Rules-to-Block-Unwanted-Content.html",
-    "revision": "c474bb8d651d950b33d53543dc58442b"
+    "revision": "96667032664da672c862f6b40374c826"
   },
   {
     "url": "zh-hans/docs/Using-Cortana-Lunch-FlyReader.html",
-    "revision": "43f4ae8e802cda471492bc6f0c814e74"
+    "revision": "ecbc666ca3febbd369b02af65778e550"
   },
   {
     "url": "zh-hans/index.html",
-    "revision": "851d4a93072dd927cfafc0cb3dd58143"
+    "revision": "29e042de8478c6066e2a5b2a9fabf6ad"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
