@@ -1,3 +1,8 @@
+---
+editLink: false
+---
+
+
 # 更新日志
 
 ::: tip 提示
