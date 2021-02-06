@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3f49813de45c754c6905e6f062e5e1d9"
+    "revision": "cd2304dd5367490b58f406ff058ddcf5"
   },
   {
     "url": "assets/css/0.styles.9d2d3a76.css",
@@ -54,8 +54,8 @@ self.__precacheManifest = [
     "revision": "f83a035177d2a879f122b348b00bf149"
   },
   {
-    "url": "assets/js/12.620ded64.js",
-    "revision": "a955deafae7833d8f6210b8ee963d9ce"
+    "url": "assets/js/12.9955c4fc.js",
+    "revision": "f6411d3db96d86d2cbaa518d07bf9531"
   },
   {
     "url": "assets/js/13.b5412872.js",
@@ -106,12 +106,12 @@ self.__precacheManifest = [
     "revision": "e113e4a68a635e9dab44f510240bc554"
   },
   {
-    "url": "assets/js/app.d821ce23.js",
-    "revision": "01fe3584266f83e6081d3c1ecae61fea"
+    "url": "assets/js/app.62a4ad23.js",
+    "revision": "cb7587091ae0b186675e0057a3064d50"
   },
   {
     "url": "en-US/index.html",
-    "revision": "dc52ec9dc779598e33029f70f809ede1"
+    "revision": "c5aa1458bc612185f173004bff0e845d"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -143,35 +143,35 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-hans/docs/Changelog.html",
-    "revision": "6e2acd04d1db902f51aee041105ea898"
+    "revision": "e1e62c0fae1f9efa1e17296a472892e9"
   },
   {
     "url": "zh-hans/docs/index.html",
-    "revision": "ff3f4da434cdc988103fd08165e2060f"
+    "revision": "eda9935c4c5eca90879e3b4ac21650af"
   },
   {
     "url": "zh-hans/docs/Launch-FlyReader-with-URL.html",
-    "revision": "00911cefca92055a0400af96c189c3a9"
+    "revision": "077c94a2bd04e24a6a6db95af4c50ef6"
   },
   {
     "url": "zh-hans/docs/Payment-Issues.html",
-    "revision": "ebdf62b1e6e6742f84c9f9c4fb3d8886"
+    "revision": "cc43c4d7e7b8e554dee7678023a97234"
   },
   {
     "url": "zh-hans/docs/Refresh-Local-Book-Chapters-with-Regular-Expressions.html",
-    "revision": "4dc9dcee3ee806d36e1ae7fc64e36cd5"
+    "revision": "070bad226201db4260bbb2a4a71225d6"
   },
   {
     "url": "zh-hans/docs/Using-Common-Rules-to-Block-Unwanted-Content.html",
-    "revision": "810f791bb6547238b7cc197896861463"
+    "revision": "ad022c7e191450700298f11ce9f7edff"
   },
   {
     "url": "zh-hans/docs/Using-Cortana-Lunch-FlyReader.html",
-    "revision": "606ed300ebab15d02e0c3b7649b82210"
+    "revision": "b025d1118f919bc38f29bbb05645cd73"
   },
   {
     "url": "zh-hans/index.html",
-    "revision": "16078338836eb7f6d272a7ec1b39b100"
+    "revision": "75132e27b4a94bdf6c6b94deab99f9a3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
