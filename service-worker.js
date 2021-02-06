@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0bf23625616b7f1b8ea54c54ea51e3cb"
+    "revision": "9874377b296f92f2f9296bb479e858a5"
   },
   {
     "url": "assets/css/0.styles.9e0b97c1.css",
@@ -106,12 +106,12 @@ self.__precacheManifest = [
     "revision": "e113e4a68a635e9dab44f510240bc554"
   },
   {
-    "url": "assets/js/app.e32cb73a.js",
-    "revision": "f5a37ebcce57c3f8e6d974b60fff88c0"
+    "url": "assets/js/app.8cd1c70b.js",
+    "revision": "969539e1f4000a7dade5519e20cf32d1"
   },
   {
     "url": "en-US/index.html",
-    "revision": "52ec836b66ab2cefebb6f9f74361fe85"
+    "revision": "a66d3155fac63b03679ff34f35eb315d"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -143,35 +143,35 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-hans/docs/Changelog.html",
-    "revision": "47968c18331b31a5c71d9f022d3ff8ae"
+    "revision": "b8ca4626c559f973a6621e1bf77ec10c"
   },
   {
     "url": "zh-hans/docs/index.html",
-    "revision": "2a52b3b6335a62b5d64718aa14f0b6d4"
+    "revision": "f8f03c26c141d1f152ef12c5278e25a3"
   },
   {
     "url": "zh-hans/docs/Launch-FlyReader-with-URL.html",
-    "revision": "406c3952e045c4fd9687a17a38cb1d09"
+    "revision": "4c2554f6c6db971cbb11b911b591aeae"
   },
   {
     "url": "zh-hans/docs/Payment-Issues.html",
-    "revision": "d64f3f358669be4d648d46e2c64ccdf5"
+    "revision": "9b7d37a235b9d960bce4f9f9eb42bceb"
   },
   {
     "url": "zh-hans/docs/Refresh-Local-Book-Chapters-with-Regular-Expressions.html",
-    "revision": "85866362abe6e3d6e4382d439b279eb5"
+    "revision": "9ba5f85238ed2faaee996aae51dddda9"
   },
   {
     "url": "zh-hans/docs/Using-Common-Rules-to-Block-Unwanted-Content.html",
-    "revision": "0a3f9a88ace2521eef623038fd531f3a"
+    "revision": "bfbaffedf5f3f76672bb0ff9336a4c7b"
   },
   {
     "url": "zh-hans/docs/Using-Cortana-Lunch-FlyReader.html",
-    "revision": "dae9ba7d91c912471009afe88549b04e"
+    "revision": "2f7a2d3879f4042de00100aaf3e486f8"
   },
   {
     "url": "zh-hans/index.html",
-    "revision": "ed10d8e052176df6b23f8dbaa90a8131"
+    "revision": "4e539a6dd558232f31864ba088c6c344"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
