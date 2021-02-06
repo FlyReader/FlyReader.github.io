@@ -22,7 +22,7 @@ module.exports = {
   themeConfig: {
     repo: 'FlyReader/Docs',
     editLinks: true,
-    docsDir: 'Docs',
+    docsDir: 'docs',
     logo: '/assets/img/logo.png',
     lastUpdated: true,
     locales: {
@@ -54,9 +54,8 @@ module.exports = {
         lastUpdated: '最后更新时间',
         nav: [
           { text: "首页", link: '/zh-hans/'},
-          { text: "文档", link: "/zh-hans/docs/"}
-        ],
-        slidebar: 'auto'  
+          { text: "文档", link: "/zh-hans/docs/"},
+        ]
       }     
     }
   },
