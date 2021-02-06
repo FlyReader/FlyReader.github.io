@@ -25,7 +25,7 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: true,
     
-    repo: 'FlyReader/FlyReader.github.io.git',
+    repo: 'FlyReader/FlyReader.github.io',
     docsDir: 'docs',
     docsBranch: 'master',
  
