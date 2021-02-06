@@ -1,19 +1,19 @@
 {
-    "name": "Fly Reader",
-    "short_name": "Fly Reader",
+    "name": "Fly Reader Docs",
+    "short_name": "Fly Reader Docs",
     "icons": [
       {
-        "src": "/Docs/icons/android-chrome-192x192.png",
+        "src": "/icons/android-chrome-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/Docs/icons/android-chrome-512x512.png",
+        "src": "/icons/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
-    "start_url": "/Docs/index.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#0078D7"

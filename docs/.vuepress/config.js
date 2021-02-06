@@ -1,5 +1,4 @@
 module.exports = {
-  base: '/Docs/',
   locales: {
     '/en-US/': {
       lang: 'en-US',
@@ -26,7 +25,7 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: true,
     
-    repo: 'FlyReader/Docs',
+    repo: 'FlyReader/FlyReader.github.io.git',
     docsDir: 'docs',
     docsBranch: 'master',
  
