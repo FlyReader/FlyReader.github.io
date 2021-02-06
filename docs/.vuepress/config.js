@@ -20,11 +20,16 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   themeConfig: {
-    repo: 'FlyReader/Docs',
-    editLinks: true,
-    docsDir: 'docs',
     logo: '/assets/img/logo.png',
+    editLinks: true,
+    search: false,
+    smoothScroll: true,
     lastUpdated: true,
+    
+    repo: 'FlyReader/Docs',
+    docsDir: 'docs',
+    docsBranch: 'master',
+ 
     locales: {
       '/en-US/': {
         selectText: "Languages",
