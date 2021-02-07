@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "fdad5ea9bdf51495b2c0fb60bb2d77c5"
+    "revision": "824f7ea75cac3b6134a31be7aff1b644"
   },
   {
     "url": "assets/css/0.styles.9d2d3a76.css",
@@ -78,16 +78,24 @@ self.__precacheManifest = [
     "revision": "cc5c902b900247ced13a149ab35a9c5c"
   },
   {
-    "url": "assets/js/18.bd0aa01f.js",
-    "revision": "85abe72d3f7b0bfc3904a5f1f260055e"
+    "url": "assets/js/18.4b24fb56.js",
+    "revision": "0c4698bdbdd2eb47c5dc96db831b8377"
+  },
+  {
+    "url": "assets/js/19.6be3d8dc.js",
+    "revision": "959741e767276f4165876daaa6708a64"
   },
   {
     "url": "assets/js/2.754939ad.js",
     "revision": "73ba9fe0a8445328b287e758995367ee"
   },
   {
-    "url": "assets/js/3.c033293e.js",
-    "revision": "c2e7282fdbe90fa9d04c399e1b50e540"
+    "url": "assets/js/20.9121d253.js",
+    "revision": "ec7696cce8198b74aa4c1491e3140fe0"
+  },
+  {
+    "url": "assets/js/3.a5d8eb0d.js",
+    "revision": "1956c4615476d993fc1fde0b5024a8d8"
   },
   {
     "url": "assets/js/4.87e5926e.js",
@@ -102,24 +110,24 @@ self.__precacheManifest = [
     "revision": "91f5235e8e07409d682a8107966689c0"
   },
   {
-    "url": "assets/js/7.a9afe1e9.js",
-    "revision": "b78328b5c215285c9644c62d384a6d79"
+    "url": "assets/js/7.ea3e5950.js",
+    "revision": "5439aaee5ac88243f4e6cacec5ee5186"
   },
   {
-    "url": "assets/js/8.db4bb196.js",
-    "revision": "2dd322ceb255bd85726b44d667ea6dd4"
+    "url": "assets/js/8.85043805.js",
+    "revision": "1dda1e9242d59d646fc45f12ed4f1786"
   },
   {
-    "url": "assets/js/9.e5245ede.js",
-    "revision": "e113e4a68a635e9dab44f510240bc554"
+    "url": "assets/js/9.b9470a16.js",
+    "revision": "1b409f576589faa894bc5cdcd8809407"
   },
   {
-    "url": "assets/js/app.544447a4.js",
-    "revision": "20d4e245ce35be0b0183175254737875"
+    "url": "assets/js/app.e1185d83.js",
+    "revision": "76eb7d1ad2b8683725a10589f7545432"
   },
   {
     "url": "en-US/index.html",
-    "revision": "4da20fa363b09a20c83f65f11cba4d59"
+    "revision": "ca6d780d5af423ae6bf691a6ab92f853"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -151,43 +159,51 @@ self.__precacheManifest = [
   },
   {
     "url": "zh-hans/docs/Changelog.html",
-    "revision": "f1db69aff4b1d2ab2d7d294269f20728"
+    "revision": "32f8c8fdcadd5f2291f391c954dc19d5"
   },
   {
     "url": "zh-hans/docs/Error-Codes.html",
-    "revision": "47b4f4cf90de528b9ae2cc25615794fb"
+    "revision": "f7666e1fd892db263449d512f9e83206"
   },
   {
     "url": "zh-hans/docs/index.html",
-    "revision": "9705e4cc76173dcc8415857a1d18614f"
+    "revision": "c9e8c61e4561b002930da4161df5efb5"
   },
   {
     "url": "zh-hans/docs/Launch-FlyReader-with-URL.html",
-    "revision": "dc4f327c05ee6294552c930f6e131c1b"
+    "revision": "ba2adca53e973343f3da1d492a0d4690"
   },
   {
     "url": "zh-hans/docs/Payment-Issues.html",
-    "revision": "720112b7bc624062de2d32d890df7440"
+    "revision": "7f70f797187e5fb35b0933e8816d1925"
   },
   {
     "url": "zh-hans/docs/Refresh-Local-Book-Chapters-with-Regular-Expressions.html",
-    "revision": "7f7fb7554997430e3708e6172ba60061"
+    "revision": "5a0a0911f38c91816fd2ca6e07d0ef13"
   },
   {
     "url": "zh-hans/docs/Report-Issues-to-Us.html",
-    "revision": "8fa79fb1113a616a8c7d1692ebf7dcf6"
+    "revision": "8902e735931a0aad912c633b1cb9ae7e"
   },
   {
     "url": "zh-hans/docs/Using-Common-Rules-to-Block-Unwanted-Content.html",
-    "revision": "f267d07625563fba718570b12114bb42"
+    "revision": "51a1a1a2f309b9cdc757fb296df759d7"
   },
   {
     "url": "zh-hans/docs/Using-Cortana-Lunch-FlyReader.html",
-    "revision": "da1b9cfd728a94dbb92fda01683b2dd6"
+    "revision": "878639cef3a23d6f2b490e8f7e10bf22"
   },
   {
     "url": "zh-hans/index.html",
-    "revision": "1157df02363052f7dd19bc63be63030f"
+    "revision": "e6af8e17b4f8a597f57d08f5560fa507"
+  },
+  {
+    "url": "zh-hans/privacystatement.html",
+    "revision": "2c532cc02274090198288d46c0b0701c"
+  },
+  {
+    "url": "zh-hans/servicesagreement.html",
+    "revision": "966dcc797f6054ab99742445db768251"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
