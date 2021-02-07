@@ -59,6 +59,8 @@ module.exports = {
         nav: [
           { text: "首页", link: '/zh-hans/'},
           { text: "文档", link: "/zh-hans/docs/"},
+          { text: "服务协议", link: "/zh-hans/servicesagreement.md"},
+          { text: "隐私声明", link: "/zh-hans/privacystatement.md"},
         ]
       }     
     }
