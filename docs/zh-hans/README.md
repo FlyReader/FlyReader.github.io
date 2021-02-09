@@ -3,7 +3,7 @@ home: true
 heroImage: /assets/img/hero.png
 actionText: 立即获取
 actionLink: https://www.microsoft.com/zh-hans/p/fly-reader/9nblggh1xvd2
-footer: Copyright © 2015-2020 flyreader.com
+footer: Copyright © 2015-2021 flyreader.com
 ---
 
 <div style="text-align: center">
