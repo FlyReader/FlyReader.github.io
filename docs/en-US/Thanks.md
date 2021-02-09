@@ -10,7 +10,7 @@ Thank you to all the users who made comments and suggestions for Fly Reader, wit
 
 -----
 
-Thank you to all the people who participate in the multilingual translation of Fly Reader! With their help, Fly Reader can provide better services to users in more countries and regions. You can see the people who contributed translations to Fly Reader at **[here](https://github.com/yinyue200/FlyReaderTranslation/graphs/contributors)**.
+Thank you to all the people who participate in the multilingual translation of Fly Reader! With their help, Fly Reader can provide better services to users in more countries and regions. You can see the people who contributed translations to Fly Reader at **[here](http://www.yinyue200.com/fwlink.aspx?id=2)**.
 
 Thank you to all the developers who provided plugins for VietFly Read, you helped us do what we couldn't!
 
