@@ -42,7 +42,9 @@ module.exports = {
         },
         lastUpdated: 'Last Updated',
         nav: [
-          { text: "Home", link: '/en-US/'}
+          { text: "Home", link: '/en-US/'},
+          { text: "Documents", link: "/en-US/docs/"},
+          { text: "Thanks", link: "/en-US/Thanks.md"},
         ]
       },
       '/zh-hans/': {
@@ -59,6 +61,7 @@ module.exports = {
         nav: [
           { text: "首页", link: '/zh-hans/'},
           { text: "文档", link: "/zh-hans/docs/"},
+          { text: "鸣谢", link: "/zh-hans/Thanks.md"},
           { text: "服务协议", link: "/zh-hans/servicesagreement.md"},
           { text: "隐私声明", link: "/zh-hans/privacystatement.md"},
         ]
